@@ -3,7 +3,7 @@
 
 I am a Full Stack Software Developer and web desain. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](https://yanz.epizy.com/).
+### 🔭 Have a look at my [website](http://yanz.epizy.com/).
 
 
 ## ⚡ Tech Stack
