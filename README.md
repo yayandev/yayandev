@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
  
 
 ## 📫 Get in touch
-(https://img.shields.io/badge/-WHATSHAPP-brightgreen?style=Color=white) || (https://img.shields.io/badge/-INSTAGRAM-blueviolet?style=Color=white)
+<a href="http://yanz.epizy.com">my website</a>
 
 
  or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
