@@ -11,7 +11,7 @@ I am a Full Stack Web Development and web desain. I am passionate about technolo
 Here are a few things I've picked up along my learning journey.
 
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![HTML](https://img.shields.io/badge/-PHP-blue)?style=for-the-badge&logo=html5&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![HTML](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=html5&logoColor=white) 
   
   ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
   
