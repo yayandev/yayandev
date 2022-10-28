@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
  
 
 ## 📫 Get in touch
-<a href="http://yanz.epizy.com">my website</a>
+<a href="http://yan.rf.gd">my website</a>
 
 
  or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
