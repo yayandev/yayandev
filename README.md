@@ -27,7 +27,7 @@ Here are a few things I've picked up along my learning journey.
 <a href="http://yan.rf.gd">my website</a>
 
 
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
+ or give some ♥ on [mail](mailto:yayanfathurohman20@gmail.com) .
 
 
 
