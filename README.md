@@ -3,7 +3,7 @@
 
 I am a Full Stack Web Development and web desain. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](http://yanz.epizy.com/).
+### 🔭 Have a look at my [website](http://yanz.my.id).
 
 
 ## ⚡ Tech Stack
@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
  
 
 ## 📫 Get in touch
-<a href="http://yan.rf.gd">my website</a>
+<a href="http://yanz.my.id">my website</a>
 
 
  or give some ♥ on [mail](mailto:yayanfathurohman20@gmail.com) .
