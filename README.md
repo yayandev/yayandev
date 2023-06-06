@@ -3,9 +3,6 @@
 
 I am a Full Stack Web Development and web desain. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](http://yanz.my.id).
-
- 
 
 ## 📫 Get in touch
 <a href="http://yanz.my.id">my website</a>
