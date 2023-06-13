@@ -5,14 +5,9 @@ I am a Full Stack Web Development and web desain. I am passionate about technolo
 
 
 ## 📫 Get in touch
-<a href="http://yanz.my.id">my website</a>
+<a href="https://yayanfaturrohman.my.id">my website</a>
 
-
- or give some ♥ on [mail](mailto:yayanfathurohman20@gmail.com) .
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
+ or give some ♥ on [mail](mailto:yayanfathurohman20@gmail.com)
 
 
  
