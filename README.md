@@ -1,4 +1,4 @@
-<h1>Yayan Faturrohman - React Developer</h1>
+<h1>Yayan Faturrohman - Fullstack Developer</h1>
 </br>
 </br>
 <img src="/react.png" width="250"> 
