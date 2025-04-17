@@ -1,5 +1,6 @@
 <img width="100px" src="/img/hello.gif" />
-# 💫 About Me:
+
+## 💫 About Me:
 I'm Full Stack Developer
 
 
